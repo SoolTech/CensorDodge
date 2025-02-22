@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title><?php echo ucfirst(strtolower($_SERVER['SERVER_NAME']))." - Censor Dodge ".$proxy->version; ?></title>
+        <title><?php echo ucfirst(strtolower($_SERVER['SERVER_NAME']))." - Sool Tech ".$proxy->version; ?></title>
         <link rel="stylesheet" type="text/css" href="<?php echo str_replace(basename($_SERVER["SCRIPT_NAME"]),"",cdURL)."plugins/surf/includes/stylesheet.css"?>">
 	<meta name="viewport" content="width=650">
     </head>
@@ -69,6 +69,6 @@
                 </table>
             </div>
         </div>
-        <div id="poweredby">Powered By <a href="http://censordodge.com" target="blank">Censor Dodge V<?php echo $proxy->version; ?></a></div>
+        <div id="poweredby">Powered By Mouh Solitaire" target="blank">Sool Tech V<?php echo $proxy->version; ?></a></div>
     </body>
 </html>
